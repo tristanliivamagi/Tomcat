@@ -1,0 +1,6 @@
+"C:\Tomcat8.5\bin\Tomcat8.exe" //IS//Tomcat8 --DisplayName "Apache Tomcat 8.5 Tomcat8" --Description "Apache Tomcat 8.5.51 Server - https://tomcat.apache.org/" --LogPath "C:\Tomcat8.5\logs" --Install "C:\Tomcat8.5\bin\Tomcat8.exe" --Jvm "C:\Program Files\Java\jre1.8.0_241\bin\server\jvm.dll" --StartPath "C:\Tomcat8.5" --StopPath "C:\Tomcat8.5"
+"C:\Tomcat8.5\bin\Tomcat8.exe" //US//Tomcat8 --Startup auto
+"C:\Tomcat8.5\bin\Tomcat8.exe" //US//Tomcat8 --Classpath "C:\Tomcat8.5\bin\bootstrap.jar;C:\Tomcat8.5\bin\tomcat-juli.jar" --StartClass org.apache.catalina.startup.Bootstrap --StopClass org.apache.catalina.startup.Bootstrap --StartParams start --StopParams stop  --StartMode jvm --StopMode jvm
+"C:\Tomcat8.5\bin\Tomcat8.exe" //US//Tomcat8 --JvmOptions "-Dcatalina.home=C:\Tomcat8.5#-Dcatalina.base=C:\Tomcat8.5#-Djava.io.tmpdir=C:\Tomcat8.5\temp#-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager#-Djava.util.logging.config.file=C:\Tomcat8.5\conf\logging.properties"
+"C:\Tomcat8.5\bin\Tomcat8.exe" //US//Tomcat8 --JvmOptions9 "--add-opens=java.base/java.lang=ALL-UNNAMED#--add-opens=java.base/java.io=ALL-UNNAMED#--add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED"
+"C:\Tomcat8.5\bin\Tomcat8.exe" //US//Tomcat8 --StdOutput auto --StdError auto --JvmMs 128 --JvmMx 256

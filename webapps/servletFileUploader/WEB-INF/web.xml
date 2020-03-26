@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  <servlet>
+    <servlet-name>bob</servlet-name>
+    <servlet-class>FileUploadServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>bob</servlet-name>
+    <url-pattern>/upload</url-pattern>
+  </servlet-mapping>
+
+
+<servlet>
+    <servlet-name>tom</servlet-name>
+	<servlet-class>androidUploadServlet</servlet-class>
+	</servlet>
+  
+  <servlet-mapping>
+    <servlet-name>tom</servlet-name>
+    <url-pattern>/androidUpload</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+<servlet>
+    <servlet-name>jerry</servlet-name>
+    <servlet-class>searchServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>jerry</servlet-name>
+    <url-pattern>/search</url-pattern>
+  </servlet-mapping>
+</web-app>

@@ -1,0 +1,38 @@
+[2020-03-01 19:03:01] [info]  [10260] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-03-01 19:03:01] [info]  [10260] Installing service 'Tomcat8' name 'Apache Tomcat 8.5 Tomcat8'.
+[2020-03-01 19:03:01] [info]  [10260] Service 'Tomcat8' installed.
+[2020-03-01 19:03:01] [info]  [10260] Apache Commons Daemon procrun finished.
+[2020-03-01 19:03:01] [info]  [11268] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-03-01 19:03:02] [info]  [11268] Updating service...
+[2020-03-01 19:03:02] [info]  [11268] Updated service 'Tomcat8'.
+[2020-03-01 19:03:02] [info]  [11268] Finished updating service 'Tomcat8'.
+[2020-03-01 19:03:02] [info]  [11268] Apache Commons Daemon procrun finished.
+[2020-03-01 19:03:05] [info]  [ 2444] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-03-01 19:03:05] [info]  [ 2444] Updating service...
+[2020-03-01 19:03:05] [info]  [ 2444] Updated service 'Tomcat8'.
+[2020-03-01 19:03:05] [info]  [ 2444] Finished updating service 'Tomcat8'.
+[2020-03-01 19:03:05] [info]  [ 2444] Apache Commons Daemon procrun finished.
+[2020-03-01 19:03:05] [info]  [ 9436] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-03-01 19:03:05] [info]  [ 9436] Updating service...
+[2020-03-01 19:03:05] [info]  [ 9436] Updated service 'Tomcat8'.
+[2020-03-01 19:03:05] [info]  [ 9436] Finished updating service 'Tomcat8'.
+[2020-03-01 19:03:05] [info]  [ 9436] Apache Commons Daemon procrun finished.
+[2020-03-01 19:03:05] [info]  [ 4184] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-03-01 19:03:05] [info]  [ 4184] Updating service...
+[2020-03-01 19:03:05] [info]  [ 4184] Updated service 'Tomcat8'.
+[2020-03-01 19:03:05] [info]  [ 4184] Finished updating service 'Tomcat8'.
+[2020-03-01 19:03:05] [info]  [ 4184] Apache Commons Daemon procrun finished.
+[2020-03-01 19:03:05] [info]  [ 4820] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-03-01 19:03:05] [info]  [ 4820] Updating service...
+[2020-03-01 19:03:05] [info]  [ 4820] Updated service 'Tomcat8'.
+[2020-03-01 19:03:05] [info]  [ 4820] Finished updating service 'Tomcat8'.
+[2020-03-01 19:03:05] [info]  [ 4820] Apache Commons Daemon procrun finished.
+[2020-03-01 19:05:12] [info]  [ 9300] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-03-01 19:05:12] [info]  [ 9300] Running Service 'Tomcat8'...
+[2020-03-01 19:05:12] [info]  [ 3352] Starting service...
+[2020-03-01 19:05:13] [info]  [ 3352] Service started in 1111 milliseconds.
+[2020-03-01 19:11:22] [info]  [15184] Console SHUTDOWN event signaled.
+[2020-03-01 19:11:22] [info]  [15184] Stopping service...
+[2020-03-01 19:11:23] [info]  [15184] Service stop thread completed.
+[2020-03-01 19:11:23] [info]  [ 9300] Run service finished.
+[2020-03-01 19:11:23] [info]  [ 9300] Apache Commons Daemon procrun finished.

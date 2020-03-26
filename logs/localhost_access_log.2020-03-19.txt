@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:00:29:19 -0700] "GET /servletFileUploader/upload HTTP/1.1" 200 471
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:00:29:39 -0700] "POST /servletFileUploader/upload HTTP/1.1" 500 127
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:00:29:45 -0700] "POST /servletFileUploader/upload HTTP/1.1" 500 127
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:00:29:54 -0700] "POST /servletFileUploader/upload HTTP/1.1" 500 128
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:00:44:27 -0700] "POST /servletFileUploader/upload HTTP/1.1" 500 128
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:30:14 -0700] "GET /servletFileUploader/upload HTTP/1.1" 200 471
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:30:22 -0700] "GET /servletFileUploader/search HTTP/1.1" 500 648
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:30:49 -0700] "POST /servletFileUploader/search HTTP/1.1" 405 752
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:36:55 -0700] "GET /servletFileUploader/search HTTP/1.1" 500 648
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:37:12 -0700] "POST /servletFileUploader/search HTTP/1.1" 405 752
